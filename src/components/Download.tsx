@@ -1,5 +1,5 @@
 
-import { Download, Smartphone, Star } from 'lucide-react';
+import { Download, Smartphone, Star, MapPin } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
 const DownloadSection = () => {
